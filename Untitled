@@ -1,0 +1,4 @@
+str = "<em>No obligation, cancel anytime.</em>"
+
+if "<em>" not in str:
+    print(str)
